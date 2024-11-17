@@ -1,1 +1,1 @@
-###Some text
+Welcome to my GitHub profile!
